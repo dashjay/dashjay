@@ -2,7 +2,7 @@
 
 I am Dashjay. I am a full-stack (backend-end biased) developer in Beijing, China 🇨🇳.
 
-an Undergrad Student, I'm a senior now.
+An Undergrad Student, I'm a senior now.
 
 My current job is about information security
 
