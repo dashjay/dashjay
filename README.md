@@ -24,7 +24,7 @@ My current job is about information security
 
 ## 📫 How to reach me
 
-* 📧 Email: dashjay#aliyun.com
+* 📧 Email: dashjwz#gmail.com
 * 📝 Blog: dashjay.github.io/
 Here are some ideas to get you started:
 
