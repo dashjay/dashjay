@@ -1,31 +1,15 @@
-## 👋 Hello, I'm Wenjie Zhao(dashjay)
 
-I'm a backend (storage biased) developer in Beijing, China 🇨🇳.
+## 👋 Hello, I'm Kevin Zhao
+I'm deeply passionate about all things related to databases and storage technology.
 
-I'm current working on building a platform for training Models, solving some problem about virtual network and data provisioning.
+- I'm immersed in the world of Golang and C++.
+- Currently exploring Linux I/O and distributed systems.
 
-## 🌱 I’m currently learning
+Feel free to get in touch with me via 📧 Email: dashjwz#gmail.com (replace # with @).
 
-* Dive into Golang, C++
-* Learning about Linux I/O, distributed consistency theory(like raft).
+And here's my Blog (in Chinese): https://dashjay.github.io
 
-## 📫 How to reach me
+- I'm currently working on a highly consistent database called ByteKV at Bytedance.
+- Prior to joining Bytedance, I was an AI-Infra Software Engineer at Megvii. There, I developed a cold volume storage solution that supports various training processes in Megvii Research.
 
-* 📧 Email: dashjwz#gmail.com
-* 📝 Blog: https://dashjay.github.io
-
-
-
-## 📘 PROJECT OF PERSONAL INTEREST 
-
-* HTTP_DEMO: As a teaching course for undergraduates. Repo Link: https://github.com/dashjay/http_demo
-  - Building an http server with C++ from scratch.
-  - Let students know about knowledge about socketio, closure(lambda func).
-
-* Baize(白澤): A tools that helps to build project on remote worker (compatible with Bazel). Repo Link: https://github.com/dashjay/baize
-  - Implemented a server for Bazel Remote API which can be a large-scale distributed execution and caching server.
-  - Designed a composed cache component supports caching on different medium (memory, disk, aws-s3). 
-  - Designed a scheduler to assign different task to workers.
-
-* Mini-LSM-GO: A KV Storage Like LevelDB implement with go. Repo Link: https://github.com/dashjay/mini-lsm-go 
-  - After reading the paper of lsm tree and source code of leveldb, I can’t wait to develop my own one, with well defined interface and test cases.
+I hold a Bachelor's degree in Information Security from USTB. I also participated in the cnsoftbei competition and won the National level gold medal, along with a prize of $1500.
