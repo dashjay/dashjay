@@ -12,4 +12,4 @@ And here's my Blog (in Chinese): https://dashjay.github.io
 - I'm currently working on a highly consistent database called ByteKV at Bytedance.
 - Prior to joining Bytedance, I was an AI-Infra Software Engineer at Megvii. There, I developed a cold volume storage solution that supports various training processes in Megvii Research.
 
-I hold a Bachelor's degree in Information Security from USTB. I also participated in the cnsoftbei competition and won the National level gold medal, along with a prize of $1500.
+I hold a Bachelor's degree in Information Security from USTB.
